@@ -1,10 +1,10 @@
 <h3>Hello World!</h3>
 
-my name is Emerson Lima, I'm a <strong>self-taught developer</strong>  and  <strong>university student </strong>, and I currently live in Vitória, Espírito Santo. I've been studying frontend since 2022 and recently I've been deepening into <strong>Web Dev</strong> and <strong>Frontend</strong>. Since the beginning I try to create responsive and nice designs, clean code, and always prioritizing the user experience, no matter what browser or operating system you are on. 
+My name is Justin Lewis, I'm a <strong>web apps developer</strong>  and  <strong>secondary student </strong>. I've been learning code since 2020 and recently I've been deepening into <strong>Web Dev</strong> and <strong>Frontend</strong>.
 
 <img align="right" alt="Emerson, avatar atrás do laptop" src="./memoji avatar.png" width="150">
 
-Currently I am studying at college, Systems Analysis and Development at Estácio de Vitória - ES 🎓
+Currently I am studying at Nguyen Trai Secondary School, Viet Nam 🎓
 
 This is my adventure, and I surf it with <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
 
