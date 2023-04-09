@@ -2,7 +2,7 @@
 
 My name is Justin Lewis, I'm a <strong>web apps developer</strong>, a <strong>designer</strong> and a <strong>secondary student </strong>. I've been learning code since 2020 and recently I've been deepening into <strong>Web Development</strong> and <strong>Frontend</strong>.
 
-<img align="right" alt="banner" src="./banner.png" width="550">
+<img align="right" alt="banner" src="./banner.png" width="600">
 
 Currently I am studying at <strong>Nguyen Trai Secondary School, Viet Nam 🎓</strong>
 
