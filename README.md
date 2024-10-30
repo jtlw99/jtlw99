@@ -6,6 +6,6 @@ My name is Justin Lewis, I'm a <strong>web apps developer</strong>, a <strong>de
 
 Currently I am studying at <strong>Nguyen Trai Secondary School, Viet Nam 🎓</strong>
 
-This is my adventure, and I surf it with <strong>Python</strong> <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
+This is my adventure, and I surf it with <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
 
 <p align="left"><a target="_blank" href="https://www.github.com/jtlw99" title="Github"><img alt="Github's Logo" height="40" src="./github.webp"></a> <a target="_blank" href="https://twitter.com/jtlw99" title="Twitter"><img alt="Twitter's Logo" height="40" src="./twitter.webp"></a> <a target="_blank" href="mailto:jtlw99@duck.com" title="Mail"><img alt="Mail icon" height="40" src="./mail.webp"></a> <a target="_blank" href="https://www.instagram.com/jtlw99/" title="Instagram"><img alt="Instagram's Logo" height="40" src="./instagram.webp"></a></p>
