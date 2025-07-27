@@ -4,7 +4,7 @@ My name is Justin Lewis, I'm a <strong>web apps developer</strong>, a <strong>de
 
 <img align="right" alt="hello!" src="./hello.png" width="375">
 
-Currently I am studying at <strong>Nguyen Trai Secondary School, Viet Nam 🎓</strong>
+Currently I am studying at <strong>PV High School, Viet Nam 🎓</strong>
 
 This is my adventure, and I surf it with <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong> and <strong>Javascript.</strong><br><br>
 
